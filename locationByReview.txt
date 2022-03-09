@@ -1,0 +1,9 @@
+TMX tenant
+ReportID : 7643
+In Db query execution response -33secs
+In dev - getting response 45 secs, 504 Gateway timeout
+In local - getting response in (sometimes)42secs, 53secs, 1 secs, request Timeout error
+
+
+
+

@@ -1,0 +1,6 @@
+{
+    "query1": "SELECT * FROM table1 LEFT JOIN table2 ON table1.column_name = table2.column_name",
+    "query2": "SELECT column_name(s) FROM table1 LEFT JOIN table2 ON table1.column_name = table2.column_name",
+    "query3": "SELECT * table1 LEFT JOIN table2 ON table1.id = tables2.customer_id LEFT JOIN table3 ON table.name = table3.name",
+    "query4": "SELECT * table1 LEFT JOIN table2 ON table1.id = tables2.customer_id LEFT JOIN table3 ON table.name = table3.name orderBy table1.id"
+}
